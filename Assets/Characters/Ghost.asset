@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d87544c048c3c54f8c53c946170e831, type: 3}
-  m_Name: Aragorn
+  m_Name: Ghost
   m_EditorClassIdentifier: 
-  characterName: Aragorn
-  description: The pikeman of Rohan. Looking at him the wrong way will get you skewered
-  strength: 90
-  intelligence: 25
-  stamina: 70
-  vitality: 100
-  portrait: {fileID: 21300000, guid: 284b7ef36601c294ca7dd8e4010153d8, type: 3}
+  characterName: Ghost
+  description: You won't know what hit you.
+  strength: 30
+  intelligence: 5
+  stamina: 50
+  vitality: 50
+  portrait: {fileID: 21300000, guid: a73d7e27ef0c0a64ab65d2b892d5fc8b, type: 3}
